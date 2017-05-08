@@ -1,3 +1,6 @@
 HERE IS CONTRIBUTION FROM THE MIRROR:
 
 "Hello from inside python-tests Dir!"
+
+GOOGLE CLOUD VM WAS HERE o_O
+
