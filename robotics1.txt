@@ -1,0 +1,3 @@
+HERE IS CONTRIBUTION FROM THE MIRROR:
+
+"Hello from inside python-tests Dir!"
