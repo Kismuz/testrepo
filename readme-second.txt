@@ -18,3 +18,4 @@ TEST1 TEST1 TEST1 TEST1 TEST1 TEST1 TEST1 TEST1 TEST1 TEST1 TEST1
 
 Hi! This string has been added to yandex local repo copy from SONY AR VGN
 
+- and here we add from mirror-1 and push via git terminal command. How will it go via Yandex disk sinchro?
