@@ -2,9 +2,9 @@
  
  
 ####
-![Gagarin-Bond](.img/Gagarin-Bond.jpg)
+![Gagarin-Bond](./img/Gagarin-Bond.jpg)
 
-GIT PLAYGROUND!
-CHUNKS OF CODE!
+- GIT PLAYGROUND!
+- CHUNKS OF CODE!
 ****
 #### ALWAYS WEAR YOUR HELMET!
