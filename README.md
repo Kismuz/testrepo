@@ -9,4 +9,4 @@
 ****
 #### ALWAYS WEAR YOUR HELMET!
 
-[this is link to Wiki](./wiki/Home-of-Wiki)
+[this is link to Wiki](https://github.com/Kismuz/testrepo/wiki)
